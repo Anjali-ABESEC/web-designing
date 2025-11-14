@@ -1,0 +1,11 @@
+p{  background-color: rgb(225, 225, 69);
+    color: rgb(203, 91, 91);
+    text-align: center;
+    text-transform: uppercase;
+}
+h2{
+    background-color: aqua;
+    color: rgb(163, 121, 202);
+    text-align: center;
+    text-transform: capitalize;
+}
