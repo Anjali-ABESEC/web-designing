@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif; 
+    background-color: #acaca0;    
+    text-align: center;              
+    margin: 20px;                    
+}
+.price{
+    color: red;
+    font-weight: bold;
+}
+
+
+button{
+    background-color: blue;
+    color: white;
+
+}
+.product-box img{
+    width: 400px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+
